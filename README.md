@@ -1,6 +1,6 @@
 # Credit
 
-This project was created with Python for the Harvard Online CS50 Introduction to Computer Science problem set 6. This programme prompts the user for a credit card number and reports via the command line whether it is a valid American Express, MasterCard or Visa card number.
+This project was created with Python for the Harvard Online CS50 Introduction to Computer Science Problem Set 6 within the CS50 IDE (integrated development environment for students and teachers). This programme prompts the user for a credit card number and reports via the command line whether it is a valid American Express, MasterCard or Visa card number.
 
 ## Usage
 
